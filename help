@@ -1,0 +1,20 @@
+
+
+Commands Package Termux
+=======================
+
+      Commands                Description
+      --------                -----------
+      ?                       help menu
+      ls		      Show all files
+      exit		      exit Exit from the tool
+      show		      Show what's inside the file
+      clear		      Cleaning the terminal screen 
+      banner		      Refresh and logo change
+      pkg_termux              Create a file with commands
+      update_termux           Update Termux Package tools
+      upgrade_termux          Update and upgrade tools
+
+
+Codeing (Ａｔｔａｃｋ)
+=======================
